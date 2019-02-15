@@ -1,0 +1,14 @@
+#titleDiv {
+	background-image: linear-gradient(yellow, red)
+}
+
+#titleDiv:hover {
+	background-image: linear-gradient(red, yellow)
+}
+
+.title {
+	color: green;
+	text-align: center;
+	padding: 5px 10px;
+	font-family: impact;
+}
